@@ -1,1 +1,1 @@
-# Maven
+# Sample application/.war file 
